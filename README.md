@@ -1,3 +1,3 @@
 # Assignment-3
 submission for homework 3
-https://in-info-web4.luddy.indianapolis.iu.edu/home/students/ilkham
+sftp://in-info-web4.luddy.indianapolis.iu.edu/home/students/ilkham/HW3%20Homepage
